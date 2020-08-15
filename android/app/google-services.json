@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "34991446163",
+    "firebase_url": "https://khaleji-translater.firebaseio.com",
+    "project_id": "khaleji-translater",
+    "storage_bucket": "khaleji-translater.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34991446163:android:253f8aad8d14b9a29ed566",
+        "android_client_info": {
+          "package_name": "com.loay.khaleji_translator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34991446163-3d1n44bj5ehc24bv7vvimqrm4hebd4pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfpOpLohDU2RHtqX7N9FAq3B0k_sonDME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34991446163-3d1n44bj5ehc24bv7vvimqrm4hebd4pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
